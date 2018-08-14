@@ -2,6 +2,8 @@
 
 A minimalistic and bidirectional English-Chinese dictionary. You can enter an English keyword to search for the equivalent Chinese word(s), and vice versa.
 
-http://x.co/dictionary
+http://ecdict.co.nf
 
-http://www.ecdict.co.nf
+http://www.italian.org.cn/app/
+
+http://www.dictware.co.nf
