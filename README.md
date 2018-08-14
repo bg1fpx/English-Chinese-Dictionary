@@ -6,4 +6,4 @@ http://ecdict.co.nf
 
 http://www.italian.org.cn/app/
 
-http://www.dictware.co.nf
+http://dictware.co.nf
