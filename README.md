@@ -6,4 +6,4 @@ http://www.italian.org.cn/app/ (for Android)
 
 http://dictware.co.nf (for Babylon)
 
-http://ecdict.co.nf (online search)
+http://ecdict.co.nf (online dictionary)
