@@ -1,9 +1,9 @@
-# English-Chinese Dictionary
+# English-Chinese Dictionary [英汉词典]
 
-A minimalistic and bidirectional English-Chinese dictionary. You can enter an English keyword to search for the equivalent Chinese word(s), and vice versa.
+A minimalistic bilingual dictionary
 
-http://www.italian.org.cn/app/ (for Android & Babylon)
+http://italian.org.cn/app/
 
-http://dictware.co.nf (for Android & Babylon)
+http://dictware.co.nf
 
-http://ecdict.co.nf (online dictionary)
+http://ecdict.co.nf
