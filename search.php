@@ -3,6 +3,7 @@
 if (! isset($_POST["keyword"]))
 { exit("Access Denied"); }
 
+// $ -> \$
 $dict = array();
 
 $keyword = $_POST["keyword"];
@@ -31,15 +32,15 @@ foreach ($dict as $line)
   if ($mode == "smode")
   { foreach ($list as $word)
       if (strncasecmp($word, $keyword, $length) == 0)
-      { $data = "<li>" . $list[0] . $latter;
+      { $data = "<li>" . $list[0] . $latter . "</li>";
         if ($data != $lastdata)
         { $result .= $data;
           $lastdata = $data;
           $total++; } } }
   else
   { foreach ($list as $word)
-      if (stripos($word, $keyword) != false)
-      { $data = "<li>" . $list[0] . $latter;
+      if (stripos($word, $keyword) > 0)
+      { $data = "<li>" . $list[0] . $latter . "</li>";
         if ($data != $lastdata)
         { $result .= $data;
           $lastdata = $data;
