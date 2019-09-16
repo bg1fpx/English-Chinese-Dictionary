@@ -1,9 +1,8 @@
-# English-Chinese Dictionary [英汉词典]
+# English-Chinese Dictionary | 英汉词典
 
 A minimalistic bilingual dictionary
 
-http://italian.org.cn/app/
+极简主义风格的双语词典
 
-http://dictware.co.nf
-
-http://ecdict.co.nf
+www.italian.org.cn/app/
+www.zhangyichi.com
