@@ -7,3 +7,5 @@ A minimalistic bilingual dictionary
 www.italian.org.cn/app/
 
 www.zhangyichi.com
+
+dictionary.coolpage.biz
